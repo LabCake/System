@@ -2,6 +2,7 @@
   "name": "labcake/system",
   "description": "Quick and easy to use functions for PHP",
   "license" : "Apache-2.0",
+  "version" : "stable",
   "autoload": {
     "psr-4": {
       "LabCake\\": "src/"
